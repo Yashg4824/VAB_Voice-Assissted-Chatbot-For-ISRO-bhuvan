@@ -1,5 +1,4 @@
- Hello fellow developers. This is my very first Github project.
- And so, I present to you:
+
 ## VAB - Voice Assissted Chatbot for ISRO Bhuvan
 
 ### This project was initially made for the IISF Space Innovation Festival Hackathon 2023.
